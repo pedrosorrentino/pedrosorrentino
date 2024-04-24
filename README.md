@@ -1,6 +1,12 @@
-# ¡Ciao Ciao! 👋 Soy Pedro Sorrentino
+# ¡Ciao Ciao! 👋 Aqui Pedro Sorrentino al mando
 
-¡Hola! Con más de 10 años de experiencia en desarrollo web, me especializo en JavaScript y TypeScript. Tengo una sólida experiencia en la creación de aplicaciones web utilizando React, Next.js, Qwik y Node.js. Mi pasión radica en la creación de experiencias digitales innovadoras y sin problemas. A lo largo de mi carrera, he entregado consistentemente soluciones de alta calidad, superando las expectativas de los clientes. Si estás buscando un profesional dedicado que esté listo para enfrentar nuevos desafíos, ¡estoy aquí para colaborar contigo! ¡Hablemos sobre cómo puedo contribuir al éxito de tu equipo y proyectos!
+¡Era una vez, en el vasto mundo del desarrollo web, donde las líneas de código danzan al ritmo de la creatividad y la innovación! Yo, un viajero de este emocionante universo, he recorrido estos caminos durante más de una década, explorando los secretos de JavaScript y TypeScript.
+
+Mis aventuras me han llevado a dominar el arte de crear aplicaciones web utilizando tecnologías como React, Next.js, Qwik y Node.js. Pero más allá de las herramientas, mi verdadera pasión reside en tejer historias digitales, llenas de ingenio y sin tropiezos.
+
+A lo largo de mi viaje, he entregado soluciones que han encantado a mis clientes una y otra vez, superando sus expectativas con creces. Como un héroe moderno, estoy siempre listo para enfrentar nuevos desafíos y ayudar a mis compañeros de equipo a alcanzar la gloria en sus proyectos.
+
+Así que si alguna vez te encuentras en busca de un compañero de aventuras dedicado y apasionado, ¡no busques más! Estoy aquí, listo para colaborar contigo y llevar nuestros proyectos a nuevas alturas. ¡Que comience la próxima gran historia en el mundo del desarrollo web! 🚀
 
 ## Tecnologías
 
