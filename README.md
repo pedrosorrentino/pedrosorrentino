@@ -8,14 +8,16 @@ A lo largo de mi viaje, he entregado soluciones que han encantado a mis clientes
 
 Así que si alguna vez te encuentras en busca de un compañero de aventuras dedicado y apasionado, ¡no busques más! Estoy aquí, listo para colaborar contigo y llevar nuestros proyectos a nuevas alturas. ¡Que comience la próxima gran historia en el mundo del desarrollo web! 🚀
 
-## Tecnologías
+## Encantador de Tecnologías
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Qwik
-- Node.js
+| Frontend          | Backend         |
+| ----------------- | --------------- |
+| JavaScript        | Node.js         |
+| TypeScript        | Express.js      |
+| React             | MongoDB         |
+| Next.js           | PostgreSQL      |
+| Qwik              | SQLite          |
+| Tailwind          | MYSql           |
 
 ## Contacto
 
