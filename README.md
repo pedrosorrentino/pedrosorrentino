@@ -17,7 +17,7 @@ Así que si alguna vez te encuentras en busca de un compañero de aventuras dedi
 | React             | MongoDB         |
 | Next.js           | PostgreSQL      |
 | Qwik              | SQLite          |
-| Tailwind          | MYSql           |
+| Tailwind          | MySQL           |
 
 ## Contacto
 
