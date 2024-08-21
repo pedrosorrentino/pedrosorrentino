@@ -1,14 +1,10 @@
-# ¡Ciao Ciao! 👋 Aqui Pedro Sorrentino al mando
+# Pedro Sorrentino – Desarrollador Web Full Stack
 
-¡Era una vez, en el vasto mundo del desarrollo web, donde las líneas de código danzan al ritmo de la creatividad y la innovación! Yo, un viajero de este emocionante universo, he recorrido estos caminos durante más de una década, explorando los secretos de JavaScript y TypeScript.
+Con más de 10 años en el desarrollo web, me especializo en JavaScript y Python, utilizando tecnologías como React, Next.js, Astro, Qwik y Node.js para construir soluciones web efectivas y escalables.
 
-Mis aventuras me han llevado a dominar el arte de crear aplicaciones web utilizando tecnologías como React, Next.js, Astro, Qwik y Node.js. Pero más allá de las herramientas, mi verdadera pasión reside en tejer historias digitales, llenas de ingenio y sin tropiezos.
+Mi experiencia abarca desde la creación de interfaces intuitivas hasta la implementación de sistemas backend robustos. Siempre busco enfrentar nuevos desafíos y colaborar en proyectos innovadores que marquen la diferencia.
 
-A lo largo de mi viaje, he entregado soluciones que han encantado a mis clientes una y otra vez, superando sus expectativas con creces. Como un héroe moderno, estoy siempre listo para enfrentar nuevos desafíos y ayudar a mis compañeros de equipo a alcanzar la gloria en sus proyectos.
-
-Así que si alguna vez te encuentras en busca de un compañero de aventuras dedicado y apasionado, ¡no busques más! Estoy aquí, listo para colaborar contigo y llevar nuestros proyectos a nuevas alturas. ¡Que comience la próxima gran historia en el mundo del desarrollo web! 🚀
-
-## Encantador de Tecnologías
+## Tecnologías
 
 | Frontend          | Backend         |
 | ----------------- | --------------- |
@@ -17,8 +13,8 @@ Así que si alguna vez te encuentras en busca de un compañero de aventuras dedi
 | React             | MongoDB         |
 | Next.js           | PostgreSQL      |
 | Astro             | SQLite          |
-| Tailwind          | MySQL           |
+| Tailwind CSS      | MySQL           |
 
 ## Contacto
 
-Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/pedro-sorrentino) y [Twitter](https://twitter.com/PedroSorrentin0).
+Puedes conectarte conmigo a través de [LinkedIn](https://www.linkedin.com/in/pedro-sorrentino) y [Twitter](https://twitter.com/PedroSorrentin0).
